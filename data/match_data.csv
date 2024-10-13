@@ -1,0 +1,599 @@
+match_id,ground,team1_name,team1_score,team2_name,team2_score,toss_winner,toss_decision,match_date,format,match_winner
+1,"Arun Jaitley Stadium, Delhi",India,221,Bangladesh,135,Bangladesh,field,09-10-2024,20,India
+2,"Zayed Cricket Stadium, Abu Dhabi",Ireland,284,South Africa,215,Ireland,bat,07-10-2024,50,Ireland
+3,"Providence Stadium, Guyana",Guyana Amazon Warriors,138,St Lucia Kings,139,St Lucia Kings,field,06-10-2024,20,St Lucia Kings
+4,"Shrimant Madhavrao Scindia Cricket Stadium, Gwalior",Bangladesh,127,India,132,India,field,06-10-2024,20,India
+5,"Providence Stadium, Guyana",Barbados Royals,148,Guyana Amazon Warriors,149,Guyana Amazon Warriors,field,04-10-2024,20,Guyana Amazon Warriors
+6,"Zayed Cricket Stadium, Abu Dhabi",South Africa,343,Ireland,169,South Africa,bat,04-10-2024,50,South Africa
+7,"Providence Stadium, Guyana",St Lucia Kings,198,Guyana Amazon Warriors,106,St Lucia Kings,bat,02-10-2024,20,St Lucia Kings
+8,"Zayed Cricket Stadium, Abu Dhabi",South Africa,271,Ireland,132,South Africa,bat,02-10-2024,50,South Africa
+9,"Providence Stadium, Guyana",Trinbago Knight Riders,168,Barbados Royals,64,Trinbago Knight Riders,bat,01-10-2024,20,Barbados Royals
+10,"Providence Stadium, Guyana",Trinbago Knight Riders,211,Guyana Amazon Warriors,137,Trinbago Knight Riders,bat,29-09-2024,20,Trinbago Knight Riders
+11,"Zayed Cricket Stadium, Abu Dhabi",Ireland,195,South Africa,185,South Africa,field,29-09-2024,20,Ireland
+12,"County Ground, Bristol",England,309,Australia,165,Australia,field,29-09-2024,50,Australia
+13,"Providence Stadium, Guyana",Guyana Amazon Warriors,207,St Lucia Kings,172,Guyana Amazon Warriors,bat,28-09-2024,20,Guyana Amazon Warriors
+14,"Brian Lara Stadium, Tarouba, Trinidad",Trinbago Knight Riders,175,Barbados Royals,145,Barbados Royals,field,27-09-2024,20,Trinbago Knight Riders
+15,"Zayed Cricket Stadium, Abu Dhabi",Ireland,171,South Africa,174,South Africa,field,27-09-2024,20,South Africa
+16,"Lord's, London",England,312,Australia,126,Australia,field,27-09-2024,50,England
+17,"Providence Stadium, Guyana",Guyana Amazon Warriors,219,Barbados Royals,172,Barbados Royals,field,25-09-2024,20,Guyana Amazon Warriors
+18,"Brian Lara Stadium, Tarouba, Trinidad",St Lucia Kings,218,Trinbago Knight Riders,138,Trinbago Knight Riders,field,24-09-2024,20,St Lucia Kings
+19,"Riverside Ground, Chester-le-Street",Australia,304,England,254,England,field,24-09-2024,50,England
+20,"Brian Lara Stadium, Tarouba, Trinidad",St Kitts and Nevis Patriots,193,Trinbago Knight Riders,197,Trinbago Knight Riders,field,22-09-2024,20,Trinbago Knight Riders
+21,"Providence Stadium, Guyana",St Lucia Kings,162,Barbados Royals,149,Barbados Royals,field,22-09-2024,20,St Lucia Kings
+22,Sharjah Cricket Stadium,Afghanistan,169,South Africa,170,Afghanistan,bat,22-09-2024,50,South Africa
+23,"Providence Stadium, Guyana",Guyana Amazon Warriors,135,Antigua and Barbuda Falcons,108,Antigua and Barbuda Falcons,field,21-09-2024,20,Guyana Amazon Warriors
+24,"Providence Stadium, Guyana",Barbados Royals,96,St Lucia Kings,97,Barbados Royals,bat,21-09-2024,20,St Lucia Kings
+25,"Headingley, Leeds",Australia,270,England,202,England,field,21-09-2024,50,Australia
+26,"Providence Stadium, Guyana",Guyana Amazon Warriors,137,St Kitts and Nevis Patriots,107,St Kitts and Nevis Patriots,field,20-09-2024,20,Guyana Amazon Warriors
+27,Sharjah Cricket Stadium,Afghanistan,311,South Africa,134,Afghanistan,bat,20-09-2024,50,Afghanistan
+28,"Queen's Park Oval, Port of Spain, Trinidad",Trinbago Knight Riders,134,Antigua and Barbuda Falcons,135,Antigua and Barbuda Falcons,field,19-09-2024,20,Antigua and Barbuda Falcons
+29,"Trent Bridge, Nottingham",England,315,Australia,317,England,bat,19-09-2024,50,Australia
+30,"Queen's Park Oval, Port of Spain, Trinidad",Guyana Amazon Warriors,148,Trinbago Knight Riders,149,Trinbago Knight Riders,field,18-09-2024,20,Trinbago Knight Riders
+31,Sharjah Cricket Stadium,South Africa,106,Afghanistan,107,South Africa,bat,18-09-2024,50,Afghanistan
+32,"Kensington Oval, Bridgetown, Barbados",St Kitts and Nevis Patriots,110,Barbados Royals,113,Barbados Royals,field,17-09-2024,20,Barbados Royals
+33,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Lucia Kings,152,Antigua and Barbuda Falcons,126,Antigua and Barbuda Falcons,field,15-09-2024,20,St Lucia Kings
+35,"Kensington Oval, Bridgetown, Barbados",Barbados Royals,205,Guyana Amazon Warriors,173,Guyana Amazon Warriors,field,14-09-2024,20,Barbados Royals
+36,"Kensington Oval, Bridgetown, Barbados",Barbados Royals,156,Trinbago Knight Riders,159,Trinbago Knight Riders,field,13-09-2024,20,Trinbago Knight Riders
+37,"Sophia Gardens, Cardiff",Australia,193,England,194,England,field,13-09-2024,20,England
+39,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Kitts and Nevis Patriots,173,St Lucia Kings,176,St Lucia Kings,field,12-09-2024,20,St Lucia Kings
+40,"Kensington Oval, Bridgetown, Barbados",Antigua and Barbuda Falcons,176,Barbados Royals,127,Barbados Royals,field,11-09-2024,20,Barbados Royals
+41,"The Rose Bowl, Southampton",Australia,179,England,151,England,field,11-09-2024,20,Australia
+42,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Lucia Kings,187,Trinbago Knight Riders,189,Trinbago Knight Riders,field,10-09-2024,20,Trinbago Knight Riders
+43,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,153,Antigua and Barbuda Falcons,154,Antigua and Barbuda Falcons,field,08-09-2024,20,Antigua and Barbuda Falcons
+44,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",St Lucia Kings,100,Guyana Amazon Warriors,101,Guyana Amazon Warriors,field,07-09-2024,20,Guyana Amazon Warriors
+45,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,149,Australia,153,Australia,field,07-09-2024,20,Australia
+46,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,153,Barbados Royals,157,Barbados Royals,field,06-09-2024,20,Barbados Royals
+47,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Australia,196,Scotland,126,Scotland,field,06-09-2024,20,Australia
+48,"Sir Vivian Richards Stadium, North Sound, Antigua",Antigua and Barbuda Falcons,176,Trinbago Knight Riders,170,Trinbago Knight Riders,field,05-09-2024,20,Antigua and Barbuda Falcons
+49,"Warner Park, Basseterre, St Kitts",Guyana Amazon Warriors,266,St Kitts and Nevis Patriots,226,Guyana Amazon Warriors,bat,04-09-2024,20,Guyana Amazon Warriors
+50,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",Scotland,154,Australia,156,Australia,field,04-09-2024,20,Australia
+51,"Sir Vivian Richards Stadium, North Sound, Antigua",Antigua and Barbuda Falcons,142,St Lucia Kings,144,St Lucia Kings,field,03-09-2024,20,St Lucia Kings
+52,"Warner Park, Basseterre, St Kitts",St Kitts and Nevis Patriots,201,St Lucia Kings,202,St Lucia Kings,field,01-09-2024,20,St Lucia Kings
+53,"Sir Vivian Richards Stadium, North Sound, Antigua",Antigua and Barbuda Falcons,145,Barbados Royals,149,Barbados Royals,field,01-09-2024,20,Barbados Royals
+54,"Warner Park, Basseterre, St Kitts",Trinbago Knight Riders,250,St Kitts and Nevis Patriots,206,St Kitts and Nevis Patriots,field,31-08-2024,20,Trinbago Knight Riders
+55,"Sir Vivian Richards Stadium, North Sound, Antigua",Antigua and Barbuda Falcons,168,Guyana Amazon Warriors,171,Guyana Amazon Warriors,field,30-08-2024,20,Guyana Amazon Warriors
+56,"Sir Vivian Richards Stadium, North Sound, Antigua",Antigua and Barbuda Falcons,163,St Kitts and Nevis Patriots,164,St Kitts and Nevis Patriots,field,29-08-2024,20,St Kitts and Nevis Patriots
+57,"Sportpark Westvliet, The Hague",Netherlands,132,United States of America,128,Netherlands,bat,28-08-2024,20,Netherlands
+58,"Brian Lara Stadium, Tarouba, Trinidad",South Africa,108,West Indies,116,West Indies,field,27-08-2024,20,West Indies
+59,"Sportpark Maarschalkerweerd, Utrecht",Canada,132,Netherlands,124,Netherlands,field,26-08-2024,20,Canada
+60,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,179,South Africa,149,South Africa,field,25-08-2024,20,West Indies
+61,"Sportpark Maarschalkerweerd, Utrecht",Netherlands,217,United States of America,115,United States of America,field,25-08-2024,20,Netherlands
+62,"Brian Lara Stadium, Tarouba, Trinidad",South Africa,174,West Indies,176,West Indies,field,23-08-2024,20,West Indies
+63,"Sportpark Maarschalkerweerd, Utrecht",Canada,152,Netherlands,153,Canada,bat,23-08-2024,20,Netherlands
+64,"Hazelaarweg, Rotterdam",Netherlands,206,United States of America,179,United States of America,field,21-08-2024,50,Netherlands
+65,"Lord's, London",Oval Invincibles (Men),147,Southern Brave (Men),130,Southern Brave (Men),field,18-08-2024,,Oval Invincibles (Men)
+67,"Hazelaarweg, Rotterdam",Netherlands,220,Canada,157,Canada,field,17-08-2024,50,Netherlands
+68,"Edgbaston, Birmingham",Manchester Originals (Men),41,Birmingham Phoenix (Men),42,Birmingham Phoenix (Men),field,15-08-2024,,Birmingham Phoenix (Men)
+69,"Sportpark Westvliet, The Hague",Netherlands,237,United States of America,218,United States of America,field,15-08-2024,50,Netherlands
+70,"Trent Bridge, Nottingham",Oval Invincibles (Men),150,Trent Rockets (Men),151,Oval Invincibles (Men),bat,14-08-2024,,Trent Rockets (Men)
+71,"The Rose Bowl, Southampton",Welsh Fire (Men),181,Southern Brave (Men),21,Welsh Fire (Men),bat,14-08-2024,,No result
+72,"Headingley, Leeds",Spirit,111,N S-Chargers,64,N S-Chargers,field,13-08-2024,,N S-Chargers
+73,"Edgbaston, Birmingham",Trent Rockets (Men),118,Birmingham Phoenix (Men),120,Birmingham Phoenix (Men),field,12-08-2024,,Birmingham Phoenix (Men)
+74,"Old Trafford, Manchester",Originals,152,N S-Chargers,156,N S-Chargers,field,11-08-2024,,N S-Chargers
+75,"Kennington Oval, London",London Spirit (Men),96,Oval Invincibles (Men),100,Oval Invincibles (Men),field,11-08-2024,,Oval Invincibles (Men)
+76,"CAA Centre, Brampton",Montreal Tigers,96,Toronto Nationals,97,Toronto Nationals,field,11-08-2024,20,Toronto Nationals
+77,"Sportpark Westvliet, The Hague",Canada,194,Netherlands,195,Canada,bat,11-08-2024,50,Netherlands
+78,"Sophia Gardens, Cardiff",Welsh Fire (Men),146,Birmingham Phoenix (Men),149,Welsh Fire (Men),bat,10-08-2024,,Birmingham Phoenix (Men)
+79,"The Rose Bowl, Southampton",Trent Rockets (Men),126,Southern Brave (Men),127,Trent Rockets (Men),bat,10-08-2024,,Southern Brave (Men)
+80,"CAA Centre, Brampton",Brampton Wolves,141,Toronto Nationals,143,Toronto Nationals,field,10-08-2024,20,Toronto Nationals
+83,"Lord's, London",Manchester Originals (Men),135,London Spirit (Men),123,London Spirit (Men),field,09-08-2024,,Manchester Originals (Men)
+84,"Kennington Oval, London",Southern Brave (Men),118,Oval Invincibles (Men),120,Oval Invincibles (Men),field,08-08-2024,,Oval Invincibles (Men)
+85,"Sophia Gardens, Cardiff",N S-Chargers,26,Fire,3,Welsh Fire (Men),field,08-08-2024,,No result
+86,"Trent Bridge, Nottingham",Trent Rockets (Men),166,London Spirit (Men),144,Trent Rockets (Men),bat,07-08-2024,,Trent Rockets (Men)
+87,"R Premadasa Stadium, Colombo",Sri Lanka,248,India,138,Sri Lanka,bat,07-08-2024,50,Sri Lanka
+90,"Edgbaston, Birmingham",N S-Chargers,83,Phoenix,86,N S-Chargers,bat,06-08-2024,,Phoenix
+91,"Old Trafford, Manchester",Oval Invincibles (Men),164,Manchester Originals (Men),161,Manchester Originals (Men),field,06-08-2024,,Oval Invincibles (Men)
+92,"CAA Centre, Brampton",Toronto Nationals,52,Montreal Tigers,56,Montreal Tigers,field,05-08-2024,20,Montreal Tigers
+93,"CAA Centre, Brampton",Surrey Jaguars,108,Bangla Tigers Mississauga,109,Bangla Tigers Mississauga,field,05-08-2024,20,Bangla Tigers Mississauga
+94,"Sophia Gardens, Cardiff",Southern Brave (Men),139,Welsh Fire (Men),97,Welsh Fire (Men),field,05-08-2024,,Southern Brave (Men)
+95,"CAA Centre, Brampton",Montreal Tigers,109,Vancouver Knights,113,Vancouver Knights,field,04-08-2024,20,Vancouver Knights
+96,"CAA Centre, Brampton",Surrey Jaguars,124,Brampton Wolves,128,Brampton Wolves,field,04-08-2024,20,Brampton Wolves
+97,"Headingley, Leeds",N S-Chargers,167,Originals,153,Manchester Originals (Men),field,04-08-2024,,N S-Chargers
+98,"Lord's, London",Oval Invincibles (Men),147,London Spirit (Men),117,Oval Invincibles (Men),bat,04-08-2024,,Oval Invincibles (Men)
+99,"R Premadasa Stadium, Colombo",Sri Lanka,240,India,208,Sri Lanka,bat,04-08-2024,50,Sri Lanka
+100,"CAA Centre, Brampton",Toronto Nationals,127,Vancouver Knights,108,Vancouver Knights,field,03-08-2024,20,Toronto Nationals
+101,"CAA Centre, Brampton",Bangla Tigers Mississauga,79,Brampton Wolves,80,Brampton Wolves,field,03-08-2024,20,Brampton Wolves
+102,"Trent Bridge, Nottingham",Welsh Fire (Men),129,Trent Rockets (Men),125,Trent Rockets (Men),field,03-08-2024,,Welsh Fire (Men)
+103,"Edgbaston, Birmingham",Southern Brave (Men),169,Birmingham Phoenix (Men),137,Birmingham Phoenix (Men),field,03-08-2024,,Southern Brave (Men)
+106,"Kennington Oval, London",N S-Chargers,145,Invincibles,126,Oval Invincibles (Men),field,02-08-2024,,N S-Chargers
+107,"R Premadasa Stadium, Colombo",Sri Lanka,230,India,230,Sri Lanka,bat,02-08-2024,50,Match tied
+108,"The Rose Bowl, Southampton",Manchester Originals (Men),116,Southern Brave (Men),117,Southern Brave (Men),field,01-08-2024,,Southern Brave (Men)
+109,"Lord's, London",Welsh Fire (Men),94,London Spirit (Men),96,London Spirit (Men),field,01-08-2024,,London Spirit (Men)
+110,"CAA Centre, Brampton",Vancouver Knights,149,Brampton Wolves,150,Vancouver Knights,bat,31-07-2024,20,Brampton Wolves
+111,"CAA Centre, Brampton",Surrey Jaguars,101,Bangla Tigers Mississauga,102,Surrey Jaguars,bat,31-07-2024,20,Bangla Tigers Mississauga
+112,"Trent Bridge, Nottingham",Birmingham Phoenix (Men),138,Trent Rockets (Men),132,Trent Rockets (Men),field,31-07-2024,,Birmingham Phoenix (Men)
+113,"CAA Centre, Brampton",Montreal Tigers,166,Brampton Wolves,124,Montreal Tigers,bat,30-07-2024,20,Montreal Tigers
+114,"CAA Centre, Brampton",Bangla Tigers Mississauga,168,Toronto Nationals,166,Toronto Nationals,field,30-07-2024,20,Bangla Tigers Mississauga
+115,"Headingley, Leeds",Brave,146,N S-Chargers,147,Southern Brave (Men),bat,30-07-2024,,N S-Chargers
+117,"Old Trafford, Manchester",Trent Rockets (Men),145,Manchester Originals (Men),144,Manchester Originals (Men),field,29-07-2024,,Trent Rockets (Men)
+118,"Grand Prairie Stadium, Dallas",Washington Freedom,207,San Francisco Unicorns,111,San Francisco Unicorns,field,28-07-2024,20,Washington Freedom
+119,"CAA Centre, Brampton",Surrey Jaguars,161,Toronto Nationals,81,Toronto Nationals,field,28-07-2024,20,Surrey Jaguars
+120,"CAA Centre, Brampton",Montreal Tigers,144,Vancouver Knights,134,Vancouver Knights,field,28-07-2024,20,Montreal Tigers
+121,"Sophia Gardens, Cardiff",Oval Invincibles (Men),113,Welsh Fire (Men),103,Welsh Fire (Men),field,28-07-2024,,Oval Invincibles (Men)
+122,Pallekele International Cricket Stadium,Sri Lanka,161,India,81,India,field,28-07-2024,20,India
+123,"CAA Centre, Brampton",Brampton Wolves,110,Toronto Nationals,111,Brampton Wolves,bat,27-07-2024,20,Toronto Nationals
+124,"CAA Centre, Brampton",Bangla Tigers Mississauga,152,Vancouver Knights,130,Vancouver Knights,field,27-07-2024,20,Bangla Tigers Mississauga
+125,"Lord's, London",London Spirit (Men),127,Birmingham Phoenix (Men),131,Birmingham Phoenix (Men),field,27-07-2024,,Birmingham Phoenix (Men)
+126,Pallekele International Cricket Stadium,India,213,Sri Lanka,170,Sri Lanka,field,27-07-2024,20,India
+127,"Grand Prairie Stadium, Dallas",San Francisco Unicorns,200,Texas Super Kings,190,Texas Super Kings,field,26-07-2024,20,San Francisco Unicorns
+128,"CAA Centre, Brampton",Brampton Wolves,198,Surrey Jaguars,139,Surrey Jaguars,field,26-07-2024,20,Brampton Wolves
+129,"CAA Centre, Brampton",Montreal Tigers,189,Bangla Tigers Mississauga,156,Bangla Tigers Mississauga,field,26-07-2024,20,Montreal Tigers
+130,"Headingley, Leeds",Rockets,185,N S-Chargers,138,N S-Chargers,field,26-07-2024,,Rockets
+131,"Forthill, Dundee",Scotland,301,Namibia,163,Namibia,field,26-07-2024,50,Scotland
+132,"Grand Prairie Stadium, Dallas",San Francisco Unicorns,145,Washington Freedom,149,Washington Freedom,field,25-07-2024,20,Washington Freedom
+133,"CAA Centre, Brampton",Vancouver Knights,110,Toronto Nationals,111,Toronto Nationals,field,25-07-2024,20,Toronto Nationals
+134,"Old Trafford, Manchester",Manchester Originals (Men),86,Welsh Fire (Men),87,Welsh Fire (Men),field,25-07-2024,,Welsh Fire (Men)
+135,"Grand Prairie Stadium, Dallas",MI New York,163,Texas Super Kings,167,Texas Super Kings,field,24-07-2024,20,Texas Super Kings
+136,"The Rose Bowl, Southampton",London Spirit (Men),138,Southern Brave (Men),139,London Spirit (Men),bat,24-07-2024,,Southern Brave (Men)
+137,"Grand Prairie Stadium, Dallas",Texas Super Kings,177,Seattle Orcas,140,Seattle Orcas,field,23-07-2024,20,Texas Super Kings
+138,"Kennington Oval, London",Birmingham Phoenix (Men),89,Oval Invincibles (Men),93,Birmingham Phoenix (Men),bat,23-07-2024,,Oval Invincibles (Men)
+139,"Grand Prairie Stadium, Dallas",Washington Freedom,174,San Francisco Unicorns,177,San Francisco Unicorns,field,22-07-2024,20,San Francisco Unicorns
+140,"Forthill, Dundee",Oman,91,Scotland,95,Scotland,field,22-07-2024,50,Scotland
+141,"Grand Prairie Stadium, Dallas",Los Angeles Knight Riders,130,MI New York,134,MI New York,field,21-07-2024,20,MI New York
+142,"R Premadasa Stadium, Colombo",Galle Marvels,184,Jaffna Kings,185,Jaffna Kings,field,21-07-2024,20,Jaffna Kings
+143,"Grand Prairie Stadium, Dallas",Seattle Orcas,152,San Francisco Unicorns,156,San Francisco Unicorns,field,20-07-2024,20,San Francisco Unicorns
+144,"R Premadasa Stadium, Colombo",Jaffna Kings,187,Kandy Falcons,186,Kandy Falcons,field,20-07-2024,20,Jaffna Kings
+145,"Forthill, Dundee",Scotland,290,Namibia,235,Namibia,field,20-07-2024,50,Scotland
+146,"Grand Prairie Stadium, Dallas",Washington Freedom,206,Texas Super Kings,164,Texas Super Kings,field,19-07-2024,20,Washington Freedom
+147,"Grand Prairie Stadium, Dallas",San Francisco Unicorns,148,MI New York,145,San Francisco Unicorns,bat,18-07-2024,20,San Francisco Unicorns
+148,"R Premadasa Stadium, Colombo",Colombo Strikers,159,Kandy Falcons,163,Kandy Falcons,field,18-07-2024,20,Kandy Falcons
+149,"R Premadasa Stadium, Colombo",Jaffna Kings,177,Galle Marvels,181,Galle Marvels,field,18-07-2024,20,Galle Marvels
+150,"Church Street Park, Morrisville",Seattle Orcas,142,Los Angeles Knight Riders,143,Seattle Orcas,bat,17-07-2024,20,Los Angeles Knight Riders
+151,"Grand Prairie Stadium, Dallas",Washington Freedom,182,MI New York,88,MI New York,field,16-07-2024,20,Washington Freedom
+152,"R Premadasa Stadium, Colombo",Dambulla Sixers,123,Colombo Strikers,95,Colombo Strikers,field,16-07-2024,20,Dambulla Sixers
+153,"Forthill, Dundee",Oman,123,Scotland,99,Scotland,field,16-07-2024,50,No result
+154,"Church Street Park, Morrisville",San Francisco Unicorns,165,Seattle Orcas,142,Seattle Orcas,field,15-07-2024,20,San Francisco Unicorns
+155,"R Premadasa Stadium, Colombo",Galle Marvels,138,Colombo Strikers,142,Colombo Strikers,field,15-07-2024,20,Colombo Strikers
+156,"R Premadasa Stadium, Colombo",Kandy Falcons,222,Dambulla Sixers,168,Dambulla Sixers,field,15-07-2024,20,Kandy Falcons
+157,"Grand Prairie Stadium, Dallas",Texas Super Kings,176,MI New York,161,MI New York,field,14-07-2024,20,Texas Super Kings
+158,"Church Street Park, Morrisville",Los Angeles Knight Riders,129,Washington Freedom,130,Washington Freedom,field,14-07-2024,20,Washington Freedom
+159,"R Premadasa Stadium, Colombo",Jaffna Kings,109,Colombo Strikers,112,Colombo Strikers,field,14-07-2024,20,Colombo Strikers
+161,Harare Sports Club,India,167,Zimbabwe,125,Zimbabwe,field,14-07-2024,20,India
+163,"R Premadasa Stadium, Colombo",Kandy Falcons,78,Jaffna Kings,79,Jaffna Kings,field,13-07-2024,20,Jaffna Kings
+164,Harare Sports Club,Zimbabwe,152,India,156,India,field,13-07-2024,20,India
+166,"Grand Prairie Stadium, Dallas",Seattle Orcas,124,Washington Freedom,127,Washington Freedom,field,11-07-2024,20,Washington Freedom
+167,"Church Street Park, Morrisville",San Francisco Unicorns,127,Texas Super Kings,128,Texas Super Kings,field,10-07-2024,20,Texas Super Kings
+168,Rangiri Dambulla International Stadium,Kandy Falcons,187,Galle Marvels,188,Galle Marvels,field,10-07-2024,20,Galle Marvels
+169,Rangiri Dambulla International Stadium,Colombo Strikers,188,Jaffna Kings,190,Jaffna Kings,field,10-07-2024,20,Jaffna Kings
+170,Harare Sports Club,India,182,Zimbabwe,159,India,bat,10-07-2024,20,India
+171,"Grand Prairie Stadium, Dallas",Los Angeles Knight Riders,168,Seattle Orcas,169,Seattle Orcas,field,09-07-2024,20,Seattle Orcas
+172,Rangiri Dambulla International Stadium,Dambulla Sixers,160,Galle Marvels,135,Galle Marvels,field,09-07-2024,20,Dambulla Sixers
+173,Rangiri Dambulla International Stadium,Jaffna Kings,224,Kandy Falcons,230,Kandy Falcons,field,09-07-2024,20,Kandy Falcons
+174,"Church Street Park, Morrisville",Texas Super Kings,203,Washington Freedom,62,Washington Freedom,field,08-07-2024,20,No result
+175,"Grand Prairie Stadium, Dallas",Los Angeles Knight Riders,165,San Francisco Unicorns,166,San Francisco Unicorns,field,07-07-2024,20,San Francisco Unicorns
+176,Rangiri Dambulla International Stadium,Colombo Strikers,185,Dambulla Sixers,188,Dambulla Sixers,field,07-07-2024,20,Dambulla Sixers
+177,Rangiri Dambulla International Stadium,Kandy Falcons,175,Galle Marvels,176,Galle Marvels,field,07-07-2024,20,Galle Marvels
+178,Harare Sports Club,India,234,Zimbabwe,134,India,bat,07-07-2024,20,India
+179,"Church Street Park, Morrisville",MI New York,154,Washington Freedom,55,Washington Freedom,field,06-07-2024,20,Washington Freedom
+180,Rangiri Dambulla International Stadium,Jaffna Kings,218,Dambulla Sixers,188,Dambulla Sixers,field,06-07-2024,20,Jaffna Kings
+181,Rangiri Dambulla International Stadium,Colombo Strikers,199,Kandy Falcons,197,Kandy Falcons,field,06-07-2024,20,Colombo Strikers
+182,Harare Sports Club,Zimbabwe,115,India,102,India,field,06-07-2024,20,Zimbabwe
+183,"Grand Prairie Stadium, Dallas",Los Angeles Knight Riders,162,Texas Super Kings,150,Texas Super Kings,field,05-07-2024,20,Los Angeles Knight Riders
+184,"Church Street Park, Morrisville",Seattle Orcas,108,MI New York,111,MI New York,field,05-07-2024,20,MI New York
+185,Rangiri Dambulla International Stadium,Galle Marvels,187,Jaffna Kings,191,Jaffna Kings,field,05-07-2024,20,Jaffna Kings
+186,Pallekele International Cricket Stadium,Galle Marvels,179,Colombo Strikers,172,Colombo Strikers,field,03-07-2024,20,Galle Marvels
+187,Pallekele International Cricket Stadium,Dambulla Sixers,191,Jaffna Kings,197,Jaffna Kings,field,03-07-2024,20,Jaffna Kings
+188,Pallekele International Cricket Stadium,Colombo Strikers,198,Kandy Falcons,147,Kandy Falcons,field,02-07-2024,20,Colombo Strikers
+189,Pallekele International Cricket Stadium,Jaffna Kings,177,Galle Marvels,179,Jaffna Kings,bat,02-07-2024,20,Galle Marvels
+190,Pallekele International Cricket Stadium,Dambulla Sixers,179,Kandy Falcons,183,Kandy Falcons,field,01-07-2024,20,Kandy Falcons
+191,"Kensington Oval, Bridgetown, Barbados",India,176,South Africa,169,India,bat,29-06-2024,20,India
+192,"Providence Stadium, Guyana",India,171,England,103,England,field,27-06-2024,20,India
+193,"Brian Lara Stadium, Tarouba, Trinidad",Afghanistan,56,South Africa,60,Afghanistan,bat,26-06-2024,20,South Africa
+194,"Arnos Vale Ground, Kingstown, St Vincent",Afghanistan,115,Bangladesh,105,Afghanistan,bat,24-06-2024,20,Afghanistan
+195,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",India,205,Australia,181,Australia,field,24-06-2024,20,India
+196,"Sir Vivian Richards Stadium, North Sound, Antigua",West Indies,135,South Africa,124,South Africa,field,23-06-2024,20,South Africa
+197,"Kensington Oval, Bridgetown, Barbados",United States of America,115,England,117,England,field,23-06-2024,20,England
+198,"Arnos Vale Ground, Kingstown, St Vincent",Afghanistan,148,Australia,127,Australia,field,22-06-2024,20,Afghanistan
+199,"Sir Vivian Richards Stadium, North Sound, Antigua",India,196,Bangladesh,146,Bangladesh,field,22-06-2024,20,India
+200,"Kensington Oval, Bridgetown, Barbados",United States of America,128,West Indies,130,West Indies,field,21-06-2024,20,West Indies
+201,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",South Africa,163,England,156,England,field,21-06-2024,20,South Africa
+202,"Sir Vivian Richards Stadium, North Sound, Antigua",Bangladesh,140,Australia,100,Australia,field,20-06-2024,20,Australia
+203,"Kensington Oval, Bridgetown, Barbados",India,181,Afghanistan,134,India,bat,20-06-2024,20,India
+204,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,180,England,181,England,field,19-06-2024,20,England
+205,"Sir Vivian Richards Stadium, North Sound, Antigua",South Africa,194,United States of America,176,United States of America,field,19-06-2024,20,South Africa
+206,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",West Indies,218,Afghanistan,114,Afghanistan,field,17-06-2024,20,West Indies
+207,"Brian Lara Stadium, Tarouba, Trinidad",Papua New Guinea,78,New Zealand,79,New Zealand,field,17-06-2024,20,New Zealand
+208,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Sri Lanka,201,Netherlands,118,Netherlands,field,16-06-2024,20,Sri Lanka
+209,"Arnos Vale Ground, Kingstown, St Vincent",Bangladesh,106,Nepal,85,Nepal,field,16-06-2024,20,Bangladesh
+210,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Ireland,106,Pakistan,111,Pakistan,field,16-06-2024,20,Pakistan
+211,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Scotland,180,Australia,186,Australia,field,15-06-2024,20,Australia
+212,"Sir Vivian Richards Stadium, North Sound, Antigua",England,122,Namibia,84,Namibia,field,15-06-2024,20,England
+214,"Brian Lara Stadium, Tarouba, Trinidad",Uganda,40,New Zealand,41,New Zealand,field,14-06-2024,20,New Zealand
+215,"Arnos Vale Ground, Kingstown, St Vincent",South Africa,115,Nepal,114,Nepal,field,14-06-2024,20,South Africa
+217,"Sir Vivian Richards Stadium, North Sound, Antigua",Oman,47,England,50,England,field,13-06-2024,20,England
+218,"Arnos Vale Ground, Kingstown, St Vincent",Bangladesh,159,Netherlands,134,Netherlands,field,13-06-2024,20,Bangladesh
+219,"Brian Lara Stadium, Tarouba, Trinidad",West Indies,149,New Zealand,136,New Zealand,field,12-06-2024,20,West Indies
+220,"Nassau County International Cricket Stadium, New York",United States of America,110,India,111,India,field,12-06-2024,20,India
+221,"Sir Vivian Richards Stadium, North Sound, Antigua",Namibia,72,Australia,74,Australia,field,11-06-2024,20,Australia
+223,"Nassau County International Cricket Stadium, New York",Canada,106,Pakistan,107,Pakistan,field,11-06-2024,20,Pakistan
+224,"Nassau County International Cricket Stadium, New York",South Africa,113,Bangladesh,109,South Africa,bat,10-06-2024,20,South Africa
+225,"Sir Vivian Richards Stadium, North Sound, Antigua",Oman,150,Scotland,153,Oman,bat,09-06-2024,20,Scotland
+226,"Nassau County International Cricket Stadium, New York",India,119,Pakistan,113,Pakistan,field,09-06-2024,20,India
+227,"Providence Stadium, Guyana",West Indies,173,Uganda,39,West Indies,bat,08-06-2024,20,West Indies
+228,"Kensington Oval, Bridgetown, Barbados",Australia,201,England,165,England,field,08-06-2024,20,Australia
+229,"Nassau County International Cricket Stadium, New York",Netherlands,103,South Africa,106,South Africa,field,08-06-2024,20,South Africa
+230,"Grand Prairie Stadium, Dallas",Sri Lanka,124,Bangladesh,125,Bangladesh,field,07-06-2024,20,Bangladesh
+231,"Providence Stadium, Guyana",Afghanistan,159,New Zealand,75,New Zealand,field,07-06-2024,20,Afghanistan
+232,"Nassau County International Cricket Stadium, New York",Canada,137,Ireland,125,Ireland,field,07-06-2024,20,Canada
+233,"Kensington Oval, Bridgetown, Barbados",Namibia,155,Scotland,157,Namibia,bat,06-06-2024,20,Scotland
+234,"Grand Prairie Stadium, Dallas",Pakistan,159,United States of America,159,United States of America,field,06-06-2024,20,Match tied
+235,"Kensington Oval, Bridgetown, Barbados",Australia,164,Oman,125,Oman,field,05-06-2024,20,Australia
+236,"Nassau County International Cricket Stadium, New York",Ireland,96,India,97,India,field,05-06-2024,20,India
+237,"Grand Prairie Stadium, Dallas",Nepal,106,Netherlands,109,Netherlands,field,04-06-2024,20,Netherlands
+239,"Nassau County International Cricket Stadium, New York",Sri Lanka,77,South Africa,80,Sri Lanka,bat,03-06-2024,20,South Africa
+240,"Providence Stadium, Guyana",Papua New Guinea,136,West Indies,137,West Indies,field,02-06-2024,20,West Indies
+241,"Nassau County International Cricket Stadium, New York",India,182,Bangladesh,122,India,bat,01-06-2024,20,India
+242,"Queen's Park Oval, Port of Spain, Trinidad",Afghanistan,178,Scotland,123,Afghanistan,bat,31-05-2024,20,Afghanistan
+243,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Sri Lanka,163,Ireland,122,Ireland,field,31-05-2024,20,Sri Lanka
+244,"Queen's Park Oval, Port of Spain, Trinidad",West Indies,257,Australia,222,Australia,field,30-05-2024,20,West Indies
+246,"Brian Lara Stadium, Tarouba, Trinidad",Uganda,90,Scotland,27,Scotland,field,30-05-2024,20,No result
+247,"Kennington Oval, London",Pakistan,157,England,158,England,field,30-05-2024,20,England
+248,"Queen's Park Oval, Port of Spain, Trinidad",Namibia,119,Australia,123,Australia,field,28-05-2024,20,Australia
+250,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Netherlands,181,Sri Lanka,161,Sri Lanka,field,28-05-2024,20,Netherlands
+252,"Sabina Park, Kingston, Jamaica",South Africa,163,West Indies,165,South Africa,bat,26-05-2024,20,West Indies
+253,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,113,Kolkata Knight Riders,114,Sunrisers Hyderabad,bat,26-05-2024,20,Kolkata Knight Riders
+254,"Sabina Park, Kingston, Jamaica",West Indies,207,South Africa,191,West Indies,bat,25-05-2024,20,West Indies
+255,Prairie View Cricket Complex,United States of America,104,Bangladesh,108,Bangladesh,field,25-05-2024,20,Bangladesh
+256,"Edgbaston, Birmingham",England,183,Pakistan,160,Pakistan,field,25-05-2024,20,England
+257,"MA Chidambaram Stadium, Chepauk, Chennai",Sunrisers Hyderabad,175,Rajasthan Royals,139,Rajasthan Royals,field,24-05-2024,20,Sunrisers Hyderabad
+258,"Sportpark Westvliet, The Hague",Ireland,161,Netherlands,158,Netherlands,field,24-05-2024,20,Ireland
+259,"Sabina Park, Kingston, Jamaica",West Indies,175,South Africa,147,South Africa,field,23-05-2024,20,West Indies
+260,Prairie View Cricket Complex,United States of America,144,Bangladesh,138,Bangladesh,field,23-05-2024,20,United States of America
+261,"Sportpark Westvliet, The Hague",Scotland,157,Ireland,158,Scotland,bat,23-05-2024,20,Ireland
+263,"Sportpark Westvliet, The Hague",Scotland,158,Netherlands,87,Netherlands,field,22-05-2024,20,Scotland
+264,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bengaluru,172,Rajasthan Royals,174,Rajasthan Royals,field,22-05-2024,20,Rajasthan Royals
+265,Prairie View Cricket Complex,Bangladesh,153,United States of America,156,United States of America,field,21-05-2024,20,United States of America
+266,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,159,Kolkata Knight Riders,164,Sunrisers Hyderabad,bat,21-05-2024,20,Kolkata Knight Riders
+268,"Sportpark Westvliet, The Hague",Ireland,150,Netherlands,149,Netherlands,field,19-05-2024,20,Ireland
+270,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Punjab Kings,214,Sunrisers Hyderabad,215,Punjab Kings,bat,19-05-2024,20,Sunrisers Hyderabad
+271,"Sportpark Westvliet, The Hague",Netherlands,167,Scotland,126,Scotland,field,18-05-2024,20,Netherlands
+272,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,218,Chennai Super Kings,191,Chennai Super Kings,field,18-05-2024,20,Royal Challengers Bengaluru
+273,"Wankhede Stadium, Mumbai",Lucknow Super Giants,214,Mumbai Indians,196,Mumbai Indians,field,17-05-2024,20,Lucknow Super Giants
+275,"Barsapara Cricket Stadium, Guwahati",Rajasthan Royals,144,Punjab Kings,145,Rajasthan Royals,bat,15-05-2024,20,Punjab Kings
+276,"Castle Avenue, Dublin",Ireland,178,Pakistan,181,Pakistan,field,14-05-2024,20,Pakistan
+277,"Arun Jaitley Stadium, Delhi",Delhi Capitals,208,Lucknow Super Giants,189,Lucknow Super Giants,field,14-05-2024,20,Delhi Capitals
+279,"Castle Avenue, Dublin",Ireland,193,Pakistan,195,Pakistan,field,12-05-2024,20,Pakistan
+280,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,187,Delhi Capitals,140,Delhi Capitals,field,12-05-2024,20,Royal Challengers Bengaluru
+281,"MA Chidambaram Stadium, Chepauk, Chennai",Rajasthan Royals,141,Chennai Super Kings,145,Rajasthan Royals,bat,12-05-2024,20,Chennai Super Kings
+282,"Shere Bangla National Stadium, Mirpur",Bangladesh,157,Zimbabwe,158,Zimbabwe,field,12-05-2024,20,Zimbabwe
+283,"Eden Gardens, Kolkata",Kolkata Knight Riders,157,Mumbai Indians,139,Mumbai Indians,field,11-05-2024,20,Kolkata Knight Riders
+284,"Castle Avenue, Dublin",Pakistan,182,Ireland,183,Ireland,field,10-05-2024,20,Ireland
+285,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,231,Chennai Super Kings,196,Chennai Super Kings,field,10-05-2024,20,Gujarat Titans
+286,"Shere Bangla National Stadium, Mirpur",Bangladesh,143,Zimbabwe,138,Zimbabwe,field,10-05-2024,20,Bangladesh
+287,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Royal Challengers Bengaluru,241,Punjab Kings,181,Punjab Kings,field,09-05-2024,20,Royal Challengers Bengaluru
+288,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Lucknow Super Giants,165,Sunrisers Hyderabad,167,Lucknow Super Giants,bat,08-05-2024,20,Sunrisers Hyderabad
+289,"Arun Jaitley Stadium, Delhi",Delhi Capitals,221,Rajasthan Royals,201,Rajasthan Royals,field,07-05-2024,20,Delhi Capitals
+290,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,165,Zimbabwe,156,Zimbabwe,field,07-05-2024,20,Bangladesh
+291,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,173,Mumbai Indians,174,Mumbai Indians,field,06-05-2024,20,Mumbai Indians
+292,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Kolkata Knight Riders,235,Lucknow Super Giants,137,Lucknow Super Giants,field,05-05-2024,20,Kolkata Knight Riders
+293,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Chennai Super Kings,167,Punjab Kings,139,Punjab Kings,field,05-05-2024,20,Chennai Super Kings
+294,"Zahur Ahmed Chowdhury Stadium, Chattogram",Zimbabwe,138,Bangladesh,142,Bangladesh,field,05-05-2024,20,Bangladesh
+295,"M Chinnaswamy Stadium, Bengaluru",Gujarat Titans,147,Royal Challengers Bengaluru,152,Royal Challengers Bengaluru,field,04-05-2024,20,Royal Challengers Bengaluru
+296,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,169,Mumbai Indians,145,Mumbai Indians,field,03-05-2024,20,Kolkata Knight Riders
+297,"Zahur Ahmed Chowdhury Stadium, Chattogram",Zimbabwe,124,Bangladesh,126,Bangladesh,field,03-05-2024,20,Bangladesh
+298,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,201,Rajasthan Royals,200,Sunrisers Hyderabad,bat,02-05-2024,20,Sunrisers Hyderabad
+299,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,162,Punjab Kings,163,Punjab Kings,field,01-05-2024,20,Punjab Kings
+300,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Mumbai Indians,144,Lucknow Super Giants,145,Lucknow Super Giants,field,30-04-2024,20,Lucknow Super Giants
+301,"Eden Gardens, Kolkata",Delhi Capitals,153,Kolkata Knight Riders,157,Delhi Capitals,bat,29-04-2024,20,Kolkata Knight Riders
+302,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,212,Sunrisers Hyderabad,134,Sunrisers Hyderabad,field,28-04-2024,20,Chennai Super Kings
+303,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,200,Royal Challengers Bengaluru,206,Royal Challengers Bengaluru,field,28-04-2024,20,Royal Challengers Bengaluru
+304,"Gaddafi Stadium, Lahore",Pakistan,178,New Zealand,169,New Zealand,field,27-04-2024,20,Pakistan
+305,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,196,Rajasthan Royals,199,Rajasthan Royals,field,27-04-2024,20,Rajasthan Royals
+306,"Arun Jaitley Stadium, Delhi",Delhi Capitals,257,Mumbai Indians,247,Mumbai Indians,field,27-04-2024,20,Delhi Capitals
+307,"Eden Gardens, Kolkata",Kolkata Knight Riders,261,Punjab Kings,262,Punjab Kings,field,26-04-2024,20,Punjab Kings
+308,"Gaddafi Stadium, Lahore",New Zealand,178,Pakistan,174,Pakistan,field,25-04-2024,20,New Zealand
+309,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Royal Challengers Bengaluru,206,Sunrisers Hyderabad,171,Royal Challengers Bengaluru,bat,25-04-2024,20,Royal Challengers Bengaluru
+310,"Arun Jaitley Stadium, Delhi",Delhi Capitals,224,Gujarat Titans,220,Gujarat Titans,field,24-04-2024,20,Delhi Capitals
+311,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,210,Lucknow Super Giants,213,Lucknow Super Giants,field,23-04-2024,20,Lucknow Super Giants
+312,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,179,Rajasthan Royals,183,Mumbai Indians,bat,22-04-2024,20,Rajasthan Royals
+313,Rawalpindi Cricket Stadium,Pakistan,178,New Zealand,179,New Zealand,field,21-04-2024,20,New Zealand
+314,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,142,Gujarat Titans,146,Punjab Kings,bat,21-04-2024,20,Gujarat Titans
+315,"Eden Gardens, Kolkata",Kolkata Knight Riders,222,Royal Challengers Bengaluru,221,Royal Challengers Bengaluru,field,21-04-2024,20,Kolkata Knight Riders
+316,Rawalpindi Cricket Stadium,New Zealand,90,Pakistan,92,Pakistan,field,20-04-2024,20,Pakistan
+317,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,266,Delhi Capitals,199,Delhi Capitals,field,20-04-2024,20,Sunrisers Hyderabad
+318,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Chennai Super Kings,176,Lucknow Super Giants,180,Lucknow Super Giants,field,19-04-2024,20,Lucknow Super Giants
+320,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mumbai Indians,192,Punjab Kings,183,Punjab Kings,field,18-04-2024,20,Mumbai Indians
+321,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,89,Delhi Capitals,92,Delhi Capitals,field,17-04-2024,20,Delhi Capitals
+322,"Eden Gardens, Kolkata",Kolkata Knight Riders,223,Rajasthan Royals,224,Rajasthan Royals,field,16-04-2024,20,Rajasthan Royals
+323,"M Chinnaswamy Stadium, Bengaluru",Sunrisers Hyderabad,287,Royal Challengers Bengaluru,262,Royal Challengers Bengaluru,field,15-04-2024,20,Sunrisers Hyderabad
+324,"Wankhede Stadium, Mumbai",Chennai Super Kings,206,Mumbai Indians,186,Mumbai Indians,field,14-04-2024,20,Chennai Super Kings
+325,"Eden Gardens, Kolkata",Lucknow Super Giants,161,Kolkata Knight Riders,162,Kolkata Knight Riders,field,14-04-2024,20,Kolkata Knight Riders
+326,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Punjab Kings,147,Rajasthan Royals,152,Rajasthan Royals,field,13-04-2024,20,Rajasthan Royals
+327,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,167,Delhi Capitals,170,Lucknow Super Giants,bat,12-04-2024,20,Delhi Capitals
+328,"Wankhede Stadium, Mumbai",Royal Challengers Bengaluru,196,Mumbai Indians,199,Mumbai Indians,field,11-04-2024,20,Mumbai Indians
+329,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,196,Gujarat Titans,199,Gujarat Titans,field,10-04-2024,20,Gujarat Titans
+330,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Sunrisers Hyderabad,182,Punjab Kings,180,Punjab Kings,field,09-04-2024,20,Sunrisers Hyderabad
+331,"MA Chidambaram Stadium, Chepauk, Chennai",Kolkata Knight Riders,137,Chennai Super Kings,141,Chennai Super Kings,field,08-04-2024,20,Chennai Super Kings
+332,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,163,Gujarat Titans,130,Lucknow Super Giants,bat,07-04-2024,20,Lucknow Super Giants
+333,"Wankhede Stadium, Mumbai",Mumbai Indians,234,Delhi Capitals,205,Delhi Capitals,field,07-04-2024,20,Mumbai Indians
+334,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bengaluru,183,Rajasthan Royals,189,Rajasthan Royals,field,06-04-2024,20,Rajasthan Royals
+335,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Chennai Super Kings,165,Sunrisers Hyderabad,166,Sunrisers Hyderabad,field,05-04-2024,20,Sunrisers Hyderabad
+336,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,199,Punjab Kings,200,Punjab Kings,field,04-04-2024,20,Punjab Kings
+337,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Kolkata Knight Riders,272,Delhi Capitals,166,Kolkata Knight Riders,bat,03-04-2024,20,Kolkata Knight Riders
+338,"M Chinnaswamy Stadium, Bengaluru",Lucknow Super Giants,181,Royal Challengers Bengaluru,153,Royal Challengers Bengaluru,field,02-04-2024,20,Lucknow Super Giants
+339,"Wankhede Stadium, Mumbai",Mumbai Indians,125,Rajasthan Royals,127,Rajasthan Royals,field,01-04-2024,20,Rajasthan Royals
+340,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Delhi Capitals,191,Chennai Super Kings,171,Delhi Capitals,bat,31-03-2024,20,Delhi Capitals
+341,"Narendra Modi Stadium, Ahmedabad",Sunrisers Hyderabad,162,Gujarat Titans,168,Sunrisers Hyderabad,bat,31-03-2024,20,Gujarat Titans
+342,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow Super Giants,199,Punjab Kings,178,Lucknow Super Giants,bat,30-03-2024,20,Lucknow Super Giants
+343,"M Chinnaswamy Stadium, Bengaluru",Royal Challengers Bengaluru,182,Kolkata Knight Riders,186,Kolkata Knight Riders,field,29-03-2024,20,Kolkata Knight Riders
+344,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,185,Delhi Capitals,173,Delhi Capitals,field,28-03-2024,20,Rajasthan Royals
+345,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Sunrisers Hyderabad,277,Mumbai Indians,246,Mumbai Indians,field,27-03-2024,20,Sunrisers Hyderabad
+346,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai Super Kings,206,Gujarat Titans,143,Gujarat Titans,field,26-03-2024,20,Chennai Super Kings
+347,"M Chinnaswamy Stadium, Bengaluru",Punjab Kings,176,Royal Challengers Bengaluru,178,Royal Challengers Bengaluru,field,25-03-2024,20,Royal Challengers Bengaluru
+348,"Narendra Modi Stadium, Ahmedabad",Gujarat Titans,168,Mumbai Indians,162,Mumbai Indians,field,24-03-2024,20,Gujarat Titans
+349,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,193,Lucknow Super Giants,173,Rajasthan Royals,bat,24-03-2024,20,Rajasthan Royals
+350,"Eden Gardens, Kolkata",Kolkata Knight Riders,208,Sunrisers Hyderabad,204,Sunrisers Hyderabad,field,23-03-2024,20,Kolkata Knight Riders
+351,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Delhi Capitals,174,Punjab Kings,177,Punjab Kings,field,23-03-2024,20,Punjab Kings
+352,"MA Chidambaram Stadium, Chepauk, Chennai",Royal Challengers Bengaluru,173,Chennai Super Kings,176,Royal Challengers Bengaluru,bat,22-03-2024,20,Chennai Super Kings
+353,"National Stadium, Karachi",Multan Sultans,159,Islamabad United,163,Multan Sultans,bat,18-03-2024,20,Islamabad United
+354,Sharjah Cricket Stadium,Afghanistan,155,Ireland,98,Afghanistan,bat,18-03-2024,20,Afghanistan
+355,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sri Lanka,235,Bangladesh,237,Sri Lanka,bat,18-03-2024,50,Bangladesh
+356,Sharjah Cricket Stadium,Afghanistan,152,Ireland,142,Afghanistan,bat,17-03-2024,20,Afghanistan
+357,"National Stadium, Karachi",Peshawar Zalmi,185,Islamabad United,189,Islamabad United,field,16-03-2024,20,Islamabad United
+358,"National Stadium, Karachi",Islamabad United,174,Quetta Gladiators,135,Islamabad United,bat,15-03-2024,20,Islamabad United
+359,Sharjah Cricket Stadium,Ireland,149,Afghanistan,111,Afghanistan,field,15-03-2024,20,Ireland
+360,"Zahur Ahmed Chowdhury Stadium, Chattogram",Bangladesh,286,Sri Lanka,287,Sri Lanka,field,15-03-2024,50,Sri Lanka
+361,"National Stadium, Karachi",Peshawar Zalmi,146,Multan Sultans,147,Peshawar Zalmi,bat,14-03-2024,20,Multan Sultans
+362,Dubai International Cricket Stadium,Scotland,94,United Arab Emirates,62,United Arab Emirates,field,14-03-2024,20,Scotland
+363,Dubai International Cricket Stadium,Scotland,121,United Arab Emirates,112,United Arab Emirates,field,13-03-2024,20,Scotland
+364,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sri Lanka,255,Bangladesh,257,Sri Lanka,bat,13-03-2024,50,Bangladesh
+365,"National Stadium, Karachi",Multan Sultans,185,Quetta Gladiators,106,Quetta Gladiators,field,12-03-2024,20,Multan Sultans
+366,Sharjah Cricket Stadium,Afghanistan,236,Ireland,119,Ireland,field,12-03-2024,50,Afghanistan
+367,"National Stadium, Karachi",Peshawar Zalmi,147,Karachi Kings,145,Peshawar Zalmi,bat,11-03-2024,20,Peshawar Zalmi
+368,Dubai International Cricket Stadium,Scotland,147,United Arab Emirates,149,United Arab Emirates,field,11-03-2024,20,United Arab Emirates
+369,"National Stadium, Karachi",Lahore Qalandars,166,Quetta Gladiators,169,Lahore Qalandars,bat,10-03-2024,20,Quetta Gladiators
+370,Rawalpindi Cricket Stadium,Multan Sultans,228,Islamabad United,232,Islamabad United,field,10-03-2024,20,Islamabad United
+371,"National Stadium, Karachi",Lahore Qalandars,177,Karachi Kings,179,Karachi Kings,field,09-03-2024,20,Karachi Kings
+373,Sylhet International Cricket Stadium,Sri Lanka,174,Bangladesh,146,Bangladesh,field,09-03-2024,20,Sri Lanka
+375,Rawalpindi Cricket Stadium,Peshawar Zalmi,196,Quetta Gladiators,120,Quetta Gladiators,field,08-03-2024,20,Peshawar Zalmi
+376,Rawalpindi Cricket Stadium,Karachi Kings,150,Islamabad United,151,Islamabad United,field,07-03-2024,20,Islamabad United
+377,Sharjah Cricket Stadium,Afghanistan,310,Ireland,275,Ireland,field,07-03-2024,50,Afghanistan
+378,Dubai International Cricket Stadium,Scotland,197,Canada,200,Canada,field,07-03-2024,50,Canada
+379,Rawalpindi Cricket Stadium,Lahore Qalandars,162,Islamabad United,145,Islamabad United,field,06-03-2024,20,Lahore Qalandars
+380,Rawalpindi Cricket Stadium,Quetta Gladiators,118,Karachi Kings,121,Karachi Kings,field,06-03-2024,20,Karachi Kings
+381,Sylhet International Cricket Stadium,Sri Lanka,165,Bangladesh,170,Bangladesh,field,06-03-2024,20,Bangladesh
+382,Rawalpindi Cricket Stadium,Peshawar Zalmi,204,Multan Sultans,200,Peshawar Zalmi,bat,05-03-2024,20,Peshawar Zalmi
+383,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,184,Netherlands,189,Nepal,bat,05-03-2024,20,Netherlands
+384,Rawalpindi Cricket Stadium,Islamabad United,196,Peshawar Zalmi,167,Peshawar Zalmi,field,04-03-2024,20,Islamabad United
+385,Sylhet International Cricket Stadium,Sri Lanka,206,Bangladesh,203,Bangladesh,field,04-03-2024,20,Sri Lanka
+386,"National Stadium, Karachi",Multan Sultans,189,Karachi Kings,169,Multan Sultans,bat,03-03-2024,20,Multan Sultans
+387,Dubai International Cricket Stadium,United Arab Emirates,132,Scotland,137,Scotland,field,03-03-2024,50,Scotland
+391,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,120,Nepal,121,Netherlands,bat,02-03-2024,20,Nepal
+392,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,154,Fortune Barishal,157,Fortune Barishal,field,01-03-2024,20,Fortune Barishal
+393,Dubai International Cricket Stadium,Scotland,215,Canada,220,Canada,field,01-03-2024,50,Canada
+394,"National Stadium, Karachi",Karachi Kings,165,Quetta Gladiators,169,Quetta Gladiators,field,29-02-2024,20,Quetta Gladiators
+395,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,247,Namibia,188,Netherlands,bat,29-02-2024,20,Netherlands
+396,"National Stadium, Karachi",Karachi Kings,165,Islamabad United,169,Islamabad United,field,28-02-2024,20,Islamabad United
+397,"Shere Bangla National Stadium, Mirpur",Rangpur Riders,149,Fortune Barishal,152,Fortune Barishal,field,28-02-2024,20,Fortune Barishal
+398,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,184,Nepal,182,Nepal,field,28-02-2024,20,Netherlands
+399,"Gaddafi Stadium, Lahore",Multan Sultans,214,Lahore Qalandars,154,Multan Sultans,bat,27-02-2024,20,Multan Sultans
+400,"Gaddafi Stadium, Lahore",Peshawar Zalmi,201,Islamabad United,193,Islamabad United,field,26-02-2024,20,Peshawar Zalmi
+401,"Shere Bangla National Stadium, Mirpur",Rangpur Riders,185,Comilla Victorians,186,Comilla Victorians,field,26-02-2024,20,Comilla Victorians
+402,"Shere Bangla National Stadium, Mirpur",Chattogram Challengers,135,Fortune Barishal,136,Fortune Barishal,field,26-02-2024,20,Fortune Barishal
+403,"Gaddafi Stadium, Lahore",Peshawar Zalmi,211,Lahore Qalandars,203,Lahore Qalandars,field,25-02-2024,20,Peshawar Zalmi
+404,Multan Cricket Stadium,Multan Sultans,180,Quetta Gladiators,167,Quetta Gladiators,field,25-02-2024,20,Multan Sultans
+405,"Tribhuvan University International Cricket Ground, Kirtipur",Nepal,172,Netherlands,173,Netherlands,field,25-02-2024,50,Netherlands
+406,"Eden Park, Auckland",Australia,118,New Zealand,98,New Zealand,field,25-02-2024,20,Australia
+407,"Gaddafi Stadium, Lahore",Lahore Qalandars,175,Karachi Kings,176,Karachi Kings,field,24-02-2024,20,Karachi Kings
+408,Multan Cricket Stadium,Peshawar Zalmi,179,Multan Sultans,174,Peshawar Zalmi,bat,23-02-2024,20,Peshawar Zalmi
+409,"Shere Bangla National Stadium, Mirpur",Khulna Tigers,128,Sylhet Strikers,130,Sylhet Strikers,field,23-02-2024,20,Sylhet Strikers
+410,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,140,Fortune Barishal,141,Fortune Barishal,field,23-02-2024,20,Fortune Barishal
+411,"Eden Park, Auckland",Australia,174,New Zealand,102,New Zealand,field,23-02-2024,20,Australia
+412,"Tribhuvan University International Cricket Ground, Kirtipur",Namibia,203,Netherlands,179,Netherlands,field,23-02-2024,50,Namibia
+413,"Gaddafi Stadium, Lahore",Islamabad United,138,Quetta Gladiators,139,Quetta Gladiators,field,22-02-2024,20,Quetta Gladiators
+414,Multan Cricket Stadium,Lahore Qalandars,166,Multan Sultans,170,Lahore Qalandars,bat,21-02-2024,20,Multan Sultans
+415,"Gaddafi Stadium, Lahore",Peshawar Zalmi,154,Karachi Kings,157,Karachi Kings,field,21-02-2024,20,Karachi Kings
+416,Rangiri Dambulla International Stadium,Afghanistan,209,Sri Lanka,206,Afghanistan,bat,21-02-2024,20,Afghanistan
+417,"Sky Stadium, Wellington",New Zealand,215,Australia,216,New Zealand,bat,21-02-2024,20,Australia
+418,Multan Cricket Stadium,Islamabad United,144,Multan Sultans,145,Multan Sultans,field,20-02-2024,20,Multan Sultans
+419,"Zahur Ahmed Chowdhury Stadium, Chattogram",Rangpur Riders,150,Comilla Victorians,151,Comilla Victorians,field,20-02-2024,20,Comilla Victorians
+420,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram Challengers,192,Khulna Tigers,127,Chattogram Challengers,bat,20-02-2024,20,Chattogram Challengers
+421,"Gaddafi Stadium, Lahore",Lahore Qalandars,187,Quetta Gladiators,188,Lahore Qalandars,bat,19-02-2024,20,Quetta Gladiators
+422,Rangiri Dambulla International Stadium,Sri Lanka,187,Afghanistan,115,Afghanistan,field,19-02-2024,20,Sri Lanka
+423,"Zahur Ahmed Chowdhury Stadium, Chattogram",Fortune Barishal,151,Rangpur Riders,155,Fortune Barishal,bat,19-02-2024,20,Rangpur Riders
+424,"Zahur Ahmed Chowdhury Stadium, Chattogram",Sylhet Strikers,177,Comilla Victorians,165,Sylhet Strikers,bat,19-02-2024,20,Sylhet Strikers
+425,"Tribhuvan University International Cricket Ground, Kirtipur",Namibia,123,Netherlands,124,Netherlands,field,19-02-2024,50,Netherlands
+426,Multan Cricket Stadium,Multan Sultans,185,Karachi Kings,130,Karachi Kings,field,18-02-2024,20,Multan Sultans
+427,"Gaddafi Stadium, Lahore",Quetta Gladiators,206,Peshawar Zalmi,190,Peshawar Zalmi,field,18-02-2024,20,Quetta Gladiators
+428,"Gaddafi Stadium, Lahore",Lahore Qalandars,195,Islamabad United,200,Islamabad United,field,17-02-2024,20,Islamabad United
+429,Dubai International Cricket Stadium,MI Emirates,208,Dubai Capitals,163,Dubai Capitals,field,17-02-2024,20,MI Emirates
+430,Rangiri Dambulla International Stadium,Sri Lanka,160,Afghanistan,156,Afghanistan,field,17-02-2024,20,Sri Lanka
+431,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram Challengers,159,Durdanto Dhaka,149,Chattogram Challengers,bat,17-02-2024,20,Chattogram Challengers
+432,"Zahur Ahmed Chowdhury Stadium, Chattogram",Fortune Barishal,183,Sylhet Strikers,165,Fortune Barishal,bat,17-02-2024,20,Fortune Barishal
+433,"Tribhuvan University International Cricket Ground, Kirtipur",Netherlands,137,Nepal,141,Nepal,field,17-02-2024,50,Nepal
+434,"Zahur Ahmed Chowdhury Stadium, Chattogram",Rangpur Riders,187,Chattogram Challengers,169,Rangpur Riders,bat,16-02-2024,20,Rangpur Riders
+435,"Zahur Ahmed Chowdhury Stadium, Chattogram",Durdanto Dhaka,128,Khulna Tigers,131,Durdanto Dhaka,bat,16-02-2024,20,Khulna Tigers
+436,Sharjah Cricket Stadium,Gulf Giants,138,Dubai Capitals,139,Gulf Giants,bat,15-02-2024,20,Dubai Capitals
+437,Dubai International Cricket Stadium,MI Emirates,163,Gulf Giants,118,Gulf Giants,field,14-02-2024,20,MI Emirates
+438,"Zahur Ahmed Chowdhury Stadium, Chattogram",Khulna Tigers,164,Comilla Victorians,168,Khulna Tigers,bat,14-02-2024,20,Comilla Victorians
+439,"Zahur Ahmed Chowdhury Stadium, Chattogram",Fortune Barishal,186,Durdanto Dhaka,159,Fortune Barishal,bat,14-02-2024,20,Fortune Barishal
+440,Pallekele International Cricket Stadium,Afghanistan,266,Sri Lanka,267,Afghanistan,bat,14-02-2024,50,Sri Lanka
+441,"Zayed Cricket Stadium, Abu Dhabi",Dubai Capitals,188,Abu Dhabi Knight Riders,103,Abu Dhabi Knight Riders,field,13-02-2024,20,Dubai Capitals
+442,"Zahur Ahmed Chowdhury Stadium, Chattogram",Rangpur Riders,219,Khulna Tigers,141,Rangpur Riders,bat,13-02-2024,20,Rangpur Riders
+443,"Zahur Ahmed Chowdhury Stadium, Chattogram",Comilla Victorians,239,Chattogram Challengers,166,Chattogram Challengers,field,13-02-2024,20,Comilla Victorians
+444,Perth Stadium,West Indies,220,Australia,183,West Indies,bat,13-02-2024,20,West Indies
+445,Sharjah Cricket Stadium,Sharjah Warriors,121,Desert Vipers,123,Desert Vipers,field,11-02-2024,20,Desert Vipers
+446,Pallekele International Cricket Stadium,Sri Lanka,308,Afghanistan,153,Sri Lanka,bat,11-02-2024,50,Sri Lanka
+447,Adelaide Oval,Australia,241,West Indies,207,West Indies,field,11-02-2024,20,Australia
+448,"Newlands, Cape Town",Sunrisers Eastern Cape,204,Durban's Super Giants,115,Sunrisers Eastern Cape,bat,10-02-2024,20,Sunrisers Eastern Cape
+449,"Zayed Cricket Stadium, Abu Dhabi",Dubai Capitals,147,MI Emirates,128,MI Emirates,field,10-02-2024,20,Dubai Capitals
+450,Dubai International Cricket Stadium,Gulf Giants,166,Abu Dhabi Knight Riders,163,Gulf Giants,bat,10-02-2024,20,Gulf Giants
+451,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,189,Durdanto Dhaka,149,Fortune Barishal,bat,10-02-2024,20,Fortune Barishal
+452,"Shere Bangla National Stadium, Mirpur",Rangpur Riders,211,Chattogram Challengers,158,Rangpur Riders,bat,10-02-2024,20,Rangpur Riders
+453,Dubai International Cricket Stadium,Desert Vipers,171,Dubai Capitals,172,Dubai Capitals,field,09-02-2024,20,Dubai Capitals
+454,"Shere Bangla National Stadium, Mirpur",Durdanto Dhaka,175,Comilla Victorians,176,Durdanto Dhaka,bat,09-02-2024,20,Comilla Victorians
+455,"Shere Bangla National Stadium, Mirpur",Khulna Tigers,153,Sylhet Strikers,159,Khulna Tigers,bat,09-02-2024,20,Sylhet Strikers
+456,Pallekele International Cricket Stadium,Sri Lanka,381,Afghanistan,339,Afghanistan,field,09-02-2024,50,Sri Lanka
+457,"Bellerive Oval, Hobart",Australia,213,West Indies,202,West Indies,field,09-02-2024,20,Australia
+458,"The Wanderers Stadium, Johannesburg",Durban's Super Giants,211,Joburg Super Kings,142,Joburg Super Kings,field,08-02-2024,20,Durban's Super Giants
+459,Dubai International Cricket Stadium,Gulf Giants,158,MI Emirates,153,MI Emirates,field,08-02-2024,20,Gulf Giants
+460,"The Wanderers Stadium, Johannesburg",Paarl Royals,138,Joburg Super Kings,139,Joburg Super Kings,field,07-02-2024,20,Joburg Super Kings
+461,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi Knight Riders,94,Sharjah Warriors,95,Sharjah Warriors,field,07-02-2024,20,Sharjah Warriors
+462,"Shere Bangla National Stadium, Mirpur",Durdanto Dhaka,124,Sylhet Strikers,129,Sylhet Strikers,field,07-02-2024,20,Sylhet Strikers
+463,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,149,Khulna Tigers,115,Comilla Victorians,bat,07-02-2024,20,Comilla Victorians
+464,"Newlands, Cape Town",Sunrisers Eastern Cape,157,Durban's Super Giants,106,Sunrisers Eastern Cape,bat,06-02-2024,20,Sunrisers Eastern Cape
+465,Dubai International Cricket Stadium,Gulf Giants,126,Dubai Capitals,107,Dubai Capitals,field,06-02-2024,20,Gulf Giants
+466,"Shere Bangla National Stadium, Mirpur",Chattogram Challengers,145,Fortune Barishal,129,Fortune Barishal,field,06-02-2024,20,Chattogram Challengers
+467,"Shere Bangla National Stadium, Mirpur",Rangpur Riders,175,Durdanto Dhaka,115,Durdanto Dhaka,field,06-02-2024,20,Rangpur Riders
+468,"Manuka Oval, Canberra",West Indies,86,Australia,87,Australia,field,06-02-2024,50,Australia
+469,Sharjah Cricket Stadium,Sharjah Warriors,75,Abu Dhabi Knight Riders,79,Abu Dhabi Knight Riders,field,05-02-2024,20,Abu Dhabi Knight Riders
+470,Dubai International Cricket Stadium,Gulf Giants,187,Sharjah Warriors,108,Sharjah Warriors,field,04-02-2024,20,Gulf Giants
+471,"Zayed Cricket Stadium, Abu Dhabi",MI Emirates,188,Desert Vipers,158,Desert Vipers,field,04-02-2024,20,MI Emirates
+472,"St George's Park, Gqeberha",Paarl Royals,159,Sunrisers Eastern Cape,165,Paarl Royals,bat,04-02-2024,20,Sunrisers Eastern Cape
+473,Sydney Cricket Ground,Australia,258,West Indies,175,West Indies,field,04-02-2024,50,Australia
+474,"The Wanderers Stadium, Johannesburg",Durban's Super Giants,203,Joburg Super Kings,209,Joburg Super Kings,field,03-02-2024,20,Joburg Super Kings
+475,"Newlands, Cape Town",MI Cape Town,163,Pretoria Capitals,167,MI Cape Town,bat,03-02-2024,20,Pretoria Capitals
+476,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi Knight Riders,183,Dubai Capitals,154,Dubai Capitals,field,03-02-2024,20,Abu Dhabi Knight Riders
+477,Dubai International Cricket Stadium,Gulf Giants,160,Desert Vipers,161,Desert Vipers,field,03-02-2024,20,Desert Vipers
+478,Sylhet International Cricket Stadium,Rangpur Riders,162,Sylhet Strikers,85,Sylhet Strikers,field,03-02-2024,20,Rangpur Riders
+479,Sylhet International Cricket Stadium,Khulna Tigers,155,Fortune Barishal,156,Fortune Barishal,field,03-02-2024,20,Fortune Barishal
+480,"Boland Park, Paarl",Sunrisers Eastern Cape,208,Paarl Royals,164,Sunrisers Eastern Cape,bat,02-02-2024,20,Sunrisers Eastern Cape
+481,"Zayed Cricket Stadium, Abu Dhabi",Sharjah Warriors,129,MI Emirates,133,MI Emirates,field,02-02-2024,20,MI Emirates
+482,Sylhet International Cricket Stadium,Chattogram Challengers,72,Comilla Victorians,73,Comilla Victorians,field,02-02-2024,20,Comilla Victorians
+483,Sylhet International Cricket Stadium,Sylhet Strikers,142,Durdanto Dhaka,127,Durdanto Dhaka,field,02-02-2024,20,Sylhet Strikers
+484,Melbourne Cricket Ground,West Indies,231,Australia,232,Australia,field,02-02-2024,50,Australia
+485,"SuperSport Park, Centurion",MI Cape Town,248,Pretoria Capitals,214,MI Cape Town,bat,01-02-2024,20,MI Cape Town
+486,Dubai International Cricket Stadium,Desert Vipers,169,Dubai Capitals,170,Dubai Capitals,field,01-02-2024,20,Dubai Capitals
+487,"The Wanderers Stadium, Johannesburg",Joburg Super Kings,78,Sunrisers Eastern Cape,79,Sunrisers Eastern Cape,field,31-01-2024,20,Sunrisers Eastern Cape
+488,"Zayed Cricket Stadium, Abu Dhabi",Gulf Giants,161,Abu Dhabi Knight Riders,164,Abu Dhabi Knight Riders,field,31-01-2024,20,Abu Dhabi Knight Riders
+489,"Kingsmead, Durban",Durban's Super Giants,174,Pretoria Capitals,166,Durban's Super Giants,bat,30-01-2024,20,Durban's Super Giants
+490,Dubai International Cricket Stadium,MI Emirates,149,Desert Vipers,150,Desert Vipers,field,30-01-2024,20,Desert Vipers
+491,Sylhet International Cricket Stadium,Fortune Barishal,186,Sylhet Strikers,137,Sylhet Strikers,field,30-01-2024,20,Fortune Barishal
+492,Sylhet International Cricket Stadium,Rangpur Riders,165,Comilla Victorians,157,Rangpur Riders,bat,30-01-2024,20,Rangpur Riders
+493,"Newlands, Cape Town",MI Cape Town,80,Joburg Super Kings,98,Joburg Super Kings,field,29-01-2024,20,Joburg Super Kings
+494,Sharjah Cricket Stadium,Dubai Capitals,104,Sharjah Warriors,105,Dubai Capitals,bat,29-01-2024,20,Sharjah Warriors
+495,Sylhet International Cricket Stadium,Durdanto Dhaka,130,Khulna Tigers,131,Durdanto Dhaka,bat,29-01-2024,20,Khulna Tigers
+496,Sylhet International Cricket Stadium,Sylhet Strikers,137,Chattogram Challengers,138,Sylhet Strikers,bat,29-01-2024,20,Chattogram Challengers
+497,Sharjah Cricket Stadium,Sharjah Warriors,174,Desert Vipers,167,Desert Vipers,field,28-01-2024,20,Sharjah Warriors
+498,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi Knight Riders,188,MI Emirates,189,MI Emirates,field,28-01-2024,20,MI Emirates
+499,"Kingsmead, Durban",Durban's Super Giants,208,Paarl Royals,83,Durban's Super Giants,bat,28-01-2024,20,Durban's Super Giants
+502,"St George's Park, Gqeberha",Sunrisers Eastern Cape,175,MI Cape Town,171,Sunrisers Eastern Cape,bat,27-01-2024,20,Sunrisers Eastern Cape
+503,Sharjah Cricket Stadium,Dubai Capitals,132,Gulf Giants,133,Dubai Capitals,bat,27-01-2024,20,Gulf Giants
+504,"Zayed Cricket Stadium, Abu Dhabi",Desert Vipers,154,Abu Dhabi Knight Riders,160,Abu Dhabi Knight Riders,field,27-01-2024,20,Abu Dhabi Knight Riders
+505,Sylhet International Cricket Stadium,Rangpur Riders,183,Durdanto Dhaka,104,Durdanto Dhaka,field,27-01-2024,20,Rangpur Riders
+506,Sylhet International Cricket Stadium,Chattogram Challengers,193,Fortune Barishal,183,Fortune Barishal,field,27-01-2024,20,Chattogram Challengers
+507,"Boland Park, Paarl",Durban's Super Giants,190,Paarl Royals,133,Durban's Super Giants,bat,26-01-2024,20,Durban's Super Giants
+508,Sharjah Cricket Stadium,MI Emirates,180,Sharjah Warriors,74,Sharjah Warriors,field,26-01-2024,20,MI Emirates
+509,Sylhet International Cricket Stadium,Comilla Victorians,130,Sylhet Strikers,78,Sylhet Strikers,field,26-01-2024,20,Comilla Victorians
+510,Sylhet International Cricket Stadium,Khulna Tigers,160,Rangpur Riders,132,Rangpur Riders,field,26-01-2024,20,Khulna Tigers
+511,"Seddon Park, Hamilton",Wellington,173,Canterbury,177,Wellington,bat,26-01-2024,20,Canterbury
+512,"SuperSport Park, Centurion",Pretoria Capitals,125,Sunrisers Eastern Cape,122,Sunrisers Eastern Cape,field,25-01-2024,20,Pretoria Capitals
+513,Dubai International Cricket Stadium,Abu Dhabi Knight Riders,183,Dubai Capitals,185,Dubai Capitals,field,25-01-2024,20,Dubai Capitals
+514,"The Wanderers Stadium, Johannesburg",Joburg Super Kings,168,Paarl Royals,171,Paarl Royals,field,24-01-2024,20,Paarl Royals
+515,Dubai International Cricket Stadium,Gulf Giants,160,Desert Vipers,162,Desert Vipers,field,24-01-2024,20,Desert Vipers
+516,Sydney Cricket Ground,Brisbane Heat,166,Sydney Sixers,112,Sydney Sixers,field,24-01-2024,20,Brisbane Heat
+517,"Newlands, Cape Town",Durban's Super Giants,157,MI Cape Town,121,MI Cape Town,field,23-01-2024,20,Durban's Super Giants
+518,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi Knight Riders,95,MI Emirates,96,MI Emirates,field,23-01-2024,20,MI Emirates
+519,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,161,Comilla Victorians,162,Comilla Victorians,field,23-01-2024,20,Comilla Victorians
+520,"Shere Bangla National Stadium, Mirpur",Sylhet Strikers,120,Rangpur Riders,125,Rangpur Riders,field,23-01-2024,20,Rangpur Riders
+522,"St George's Park, Gqeberha",Pretoria Capitals,52,Sunrisers Eastern Cape,54,Sunrisers Eastern Cape,field,22-01-2024,20,Sunrisers Eastern Cape
+523,Dubai International Cricket Stadium,Dubai Capitals,170,Sharjah Warriors,171,Sharjah Warriors,field,22-01-2024,20,Sharjah Warriors
+524,"Shere Bangla National Stadium, Mirpur",Fortune Barishal,187,Khulna Tigers,188,Khulna Tigers,field,22-01-2024,20,Khulna Tigers
+525,"Shere Bangla National Stadium, Mirpur",Durdanto Dhaka,136,Chattogram Challengers,137,Chattogram Challengers,field,22-01-2024,20,Chattogram Challengers
+526,Carrara Oval,Brisbane Heat,214,Adelaide Strikers,160,Brisbane Heat,bat,22-01-2024,20,Brisbane Heat
+527,"Basin Reserve, Wellington",Canterbury,178,Wellington,160,Wellington,field,22-01-2024,20,Canterbury
+528,"Zayed Cricket Stadium, Abu Dhabi",MI Emirates,179,Gulf Giants,161,Gulf Giants,field,21-01-2024,20,MI Emirates
+529,Dubai International Cricket Stadium,Desert Vipers,164,Abu Dhabi Knight Riders,166,Abu Dhabi Knight Riders,field,21-01-2024,20,Abu Dhabi Knight Riders
+530,"Boland Park, Paarl",Paarl Royals,162,MI Cape Town,103,MI Cape Town,field,21-01-2024,20,Paarl Royals
+531,"Hagley Oval, Christchurch",Pakistan,134,New Zealand,92,Pakistan,bat,21-01-2024,20,Pakistan
+532,"The Wanderers Stadium, Johannesburg",Pretoria Capitals,167,Joburg Super Kings,171,Pretoria Capitals,bat,20-01-2024,20,Joburg Super Kings
+533,"Kingsmead, Durban",Durban's Super Giants,159,Sunrisers Eastern Cape,163,Durban's Super Giants,bat,20-01-2024,20,Sunrisers Eastern Cape
+534,Dubai International Cricket Stadium,MI Emirates,159,Dubai Capitals,160,Dubai Capitals,field,20-01-2024,20,Dubai Capitals
+535,"Shere Bangla National Stadium, Mirpur",Chattogram Challengers,121,Khulna Tigers,122,Khulna Tigers,field,20-01-2024,20,Khulna Tigers
+536,"Shere Bangla National Stadium, Mirpur",Rangpur Riders,134,Fortune Barishal,138,Fortune Barishal,field,20-01-2024,20,Fortune Barishal
+537,Perth Stadium,Adelaide Strikers,155,Perth Scorchers,105,Perth Scorchers,field,20-01-2024,20,Adelaide Strikers
+538,"Eden Park Outer Oval, Auckland",Auckland,181,Northern Districts,137,Northern Districts,field,20-01-2024,20,Auckland
+539,"Newlands, Cape Town",Paarl Royals,172,MI Cape Town,175,MI Cape Town,field,19-01-2024,20,MI Cape Town
+540,Sharjah Cricket Stadium,Gulf Giants,198,Sharjah Warriors,167,Sharjah Warriors,field,19-01-2024,20,Gulf Giants
+541,"Shere Bangla National Stadium, Mirpur",Sylhet Strikers,177,Chattogram Challengers,180,Chattogram Challengers,field,19-01-2024,20,Chattogram Challengers
+542,"Shere Bangla National Stadium, Mirpur",Comilla Victorians,143,Durdanto Dhaka,147,Durdanto Dhaka,field,19-01-2024,20,Durdanto Dhaka
+543,Carrara Oval,Sydney Sixers,152,Brisbane Heat,113,Brisbane Heat,field,19-01-2024,20,Sydney Sixers
+544,"Hagley Oval, Christchurch",Pakistan,158,New Zealand,159,New Zealand,field,19-01-2024,20,New Zealand
+545,"University Oval, Dunedin",Otago,139,Central Districts,139,Central Districts,field,19-01-2024,20,Match tied
+546,"SuperSport Park, Centurion",Pretoria Capitals,204,Durban's Super Giants,187,Pretoria Capitals,bat,18-01-2024,20,Pretoria Capitals
+547,"R Premadasa Stadium, Colombo",Zimbabwe,82,Sri Lanka,88,Sri Lanka,field,18-01-2024,20,Sri Lanka
+548,"Seddon Park, Hamilton",Canterbury,228,Northern Districts,138,Northern Districts,field,18-01-2024,20,Canterbury
+549,"Boland Park, Paarl",Joburg Super Kings,134,Paarl Royals,135,Joburg Super Kings,bat,17-01-2024,20,Paarl Royals
+550,"M Chinnaswamy Stadium, Bengaluru",India,212,Afghanistan,212,India,bat,17-01-2024,20,Match tied
+552,"University Oval, Dunedin",New Zealand,224,Pakistan,179,Pakistan,field,17-01-2024,20,New Zealand
+553,"Newlands, Cape Town",Sunrisers Eastern Cape,202,MI Cape Town,198,Sunrisers Eastern Cape,bat,16-01-2024,20,Sunrisers Eastern Cape
+554,"R Premadasa Stadium, Colombo",Sri Lanka,173,Zimbabwe,178,Zimbabwe,field,16-01-2024,20,Zimbabwe
+555,Perth Stadium,Perth Scorchers,197,Sydney Sixers,201,Perth Scorchers,bat,16-01-2024,20,Sydney Sixers
+556,"Eden Park Outer Oval, Auckland",Central Districts,173,Auckland,158,Auckland,field,16-01-2024,20,Central Districts
+557,"Kingsmead, Durban",Durban's Super Giants,145,Joburg Super Kings,108,Durban's Super Giants,bat,15-01-2024,20,Durban's Super Giants
+558,Melbourne Cricket Ground,Hobart Hurricanes,187,Melbourne Stars,180,Melbourne Stars,field,15-01-2024,20,Hobart Hurricanes
+559,"Basin Reserve, Wellington",Wellington,102,Northern Districts,105,Northern Districts,field,15-01-2024,20,Northern Districts
+560,"R Premadasa Stadium, Colombo",Zimbabwe,143,Sri Lanka,144,Sri Lanka,field,14-01-2024,20,Sri Lanka
+561,"SuperSport Park, Centurion",Paarl Royals,210,Pretoria Capitals,200,Pretoria Capitals,field,14-01-2024,20,Paarl Royals
+562,"Holkar Cricket Stadium, Indore",Afghanistan,172,India,173,India,field,14-01-2024,20,India
+563,"Manuka Oval, Canberra",Sydney Thunder,140,Adelaide Strikers,141,Sydney Thunder,bat,14-01-2024,20,Adelaide Strikers
+564,"Seddon Park, Hamilton",New Zealand,194,Pakistan,173,Pakistan,field,14-01-2024,20,New Zealand
+565,"Eden Park Outer Oval, Auckland",Otago,138,Auckland,139,Otago,bat,14-01-2024,20,Auckland
+566,"St George's Park, Gqeberha",Durban's Super Giants,225,Sunrisers Eastern Cape,190,Durban's Super Giants,bat,13-01-2024,20,Durban's Super Giants
+567,"The Wanderers Stadium, Johannesburg",MI Cape Town,243,Joburg Super Kings,145,Joburg Super Kings,field,13-01-2024,20,MI Cape Town
+568,"Docklands Stadium, Melbourne",Melbourne Stars,137,Melbourne Renegades,139,Melbourne Renegades,field,13-01-2024,20,Melbourne Renegades
+569,Perth Stadium,Perth Scorchers,163,Brisbane Heat,128,Perth Scorchers,bat,13-01-2024,20,Perth Scorchers
+570,"Basin Reserve, Wellington",Wellington,147,Central Districts,148,Wellington,bat,13-01-2024,20,Central Districts
+571,"Boland Park, Paarl",Paarl Royals,160,Pretoria Capitals,133,Pretoria Capitals,field,12-01-2024,20,Paarl Royals
+572,Sydney Cricket Ground,Sydney Sixers,151,Sydney Thunder,132,Sydney Thunder,field,12-01-2024,20,Sydney Sixers
+573,"Eden Park, Auckland",New Zealand,226,Pakistan,180,Pakistan,field,12-01-2024,20,New Zealand
+574,"Bay Oval, Mount Maunganui",Northern Districts,121,Auckland,127,Northern Districts,bat,12-01-2024,20,Auckland
+575,"Kingsmead, Durban",MI Cape Town,207,Durban's Super Giants,177,Durban's Super Giants,field,11-01-2024,20,Durban's Super Giants
+576,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Afghanistan,158,India,159,India,field,11-01-2024,20,India
+577,"R Premadasa Stadium, Colombo",Zimbabwe,96,Sri Lanka,97,Zimbabwe,bat,11-01-2024,50,Sri Lanka
+578,"Bellerive Oval, Hobart",Hobart Hurricanes,167,Adelaide Strikers,169,Adelaide Strikers,field,11-01-2024,20,Adelaide Strikers
+579,"Hagley Oval, Christchurch",Wellington,184,Canterbury,163,Canterbury,field,11-01-2024,20,Wellington
+581,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,191,Perth Scorchers,168,Brisbane Heat,bat,10-01-2024,20,Brisbane Heat
+582,"McLean Park, Napier",Central Districts,187,Otago,135,Otago,field,10-01-2024,20,Central Districts
+583,Adelaide Oval,Hobart Hurricanes,165,Adelaide Strikers,168,Adelaide Strikers,field,09-01-2024,20,Adelaide Strikers
+584,"Hagley Oval, Christchurch",Canterbury,202,Northern Districts,169,Northern Districts,field,09-01-2024,20,Canterbury
+585,"R Premadasa Stadium, Colombo",Zimbabwe,208,Sri Lanka,211,Zimbabwe,bat,08-01-2024,50,Sri Lanka
+586,Sydney Showground Stadium,Sydney Thunder,137,Perth Scorchers,140,Perth Scorchers,field,08-01-2024,20,Perth Scorchers
+587,"McLean Park, Napier",Central Districts,158,Wellington,160,Central Districts,bat,08-01-2024,20,Wellington
+588,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,132,Hobart Hurricanes,116,Hobart Hurricanes,field,07-01-2024,20,Brisbane Heat
+589,"Hagley Oval, Christchurch",Canterbury,140,Auckland,141,Auckland,field,07-01-2024,20,Auckland
+590,"R Premadasa Stadium, Colombo",Sri Lanka,273,Zimbabwe,12,Sri Lanka,bat,06-01-2024,50,No result
+591,Melbourne Cricket Ground,Melbourne Stars,156,Sydney Sixers,160,Sydney Sixers,field,06-01-2024,20,Sydney Sixers
+592,"Seddon Park, Hamilton",Northern Districts,128,Otago,132,Northern Districts,bat,06-01-2024,20,Otago
+593,Adelaide Oval,Perth Scorchers,153,Adelaide Strikers,154,Adelaide Strikers,field,05-01-2024,20,Adelaide Strikers
+595,"Docklands Stadium, Melbourne",Melbourne Renegades,147,Hobart Hurricanes,148,Hobart Hurricanes,field,04-01-2024,20,Hobart Hurricanes
+596,"Eden Park Outer Oval, Auckland",Auckland,192,Wellington,139,Wellington,field,04-01-2024,20,Auckland
+597,Perth Stadium,Perth Scorchers,211,Adelaide Strikers,169,Adelaide Strikers,field,03-01-2024,20,Perth Scorchers
+598,"International Sports Stadium, Coffs Harbour",Sydney Sixers,141,Brisbane Heat,104,Brisbane Heat,field,03-01-2024,20,Brisbane Heat
+599,"Molyneux Park, Alexandra",Otago,171,Canterbury,175,Otago,bat,03-01-2024,20,Canterbury
+600,Melbourne Cricket Ground,Melbourne Renegades,97,Melbourne Stars,98,Melbourne Stars,field,02-01-2024,20,Melbourne Stars
+601,"Bay Oval, Mount Maunganui",Wellington,177,Northern Districts,154,Wellington,bat,02-01-2024,20,Wellington
+603,"Bellerive Oval, Hobart",Sydney Thunder,150,Hobart Hurricanes,151,Hobart Hurricanes,field,01-01-2024,20,Hobart Hurricanes
+604,"Molyneux Park, Alexandra",Auckland,151,Otago,154,Otago,field,01-01-2024,20,Otago
+605,Adelaide Oval,Adelaide Strikers,205,Melbourne Stars,211,Melbourne Stars,field,31-12-2023,20,Melbourne Stars
+606,"Bay Oval, Mount Maunganui",Bangladesh,110,New Zealand,95,New Zealand,field,31-12-2023,20,New Zealand
+607,Sydney Showground Stadium,Sydney Thunder,151,Sydney Sixers,34,Sydney Thunder,bat,30-12-2023,20,No result
+608,"Pukekura Park, New Plymouth",Canterbury,185,Central Districts,142,Central Districts,field,30-12-2023,20,Canterbury
+609,"Docklands Stadium, Melbourne",Adelaide Strikers,177,Melbourne Renegades,178,Adelaide Strikers,bat,29-12-2023,20,Melbourne Renegades
+612,"Bellerive Oval, Hobart",Hobart Hurricanes,155,Melbourne Stars,67,Melbourne Stars,field,28-12-2023,20,Melbourne Stars
+613,"Molyneux Park, Alexandra",Otago,47,Wellington,53,Otago,bat,28-12-2023,20,Wellington
+614,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane Heat,172,Sydney Thunder,157,Brisbane Heat,bat,27-12-2023,20,Brisbane Heat
+615,"McLean Park, Napier",New Zealand,134,Bangladesh,137,Bangladesh,field,27-12-2023,20,Bangladesh
+616,"Fitzherbert Park, Palmerston North",Central Districts,206,Northern Districts,150,Northern Districts,field,27-12-2023,20,Central Districts
+617,Perth Stadium,Perth Scorchers,162,Melbourne Renegades,149,Melbourne Renegades,field,26-12-2023,20,Perth Scorchers
+618,Sydney Cricket Ground,Sydney Sixers,154,Melbourne Stars,155,Melbourne Stars,field,26-12-2023,20,Melbourne Stars
+621,"Bellerive Oval, Hobart",Melbourne Renegades,183,Hobart Hurricanes,187,Hobart Hurricanes,field,23-12-2023,20,Hobart Hurricanes
+622,"Lavington Sports Oval, Albury",Melbourne Stars,172,Sydney Thunder,176,Melbourne Stars,bat,23-12-2023,20,Sydney Thunder
+623,"McLean Park, Napier",New Zealand,98,Bangladesh,99,Bangladesh,field,23-12-2023,50,Bangladesh
+624,Sydney Cricket Ground,Sydney Sixers,155,Adelaide Strikers,154,Adelaide Strikers,field,22-12-2023,20,Sydney Sixers
+625,"Seddon Park, Hamilton",Northern Districts,196,Central Districts,141,Central Districts,field,22-12-2023,20,Northern Districts
+626,"Brian Lara Stadium, Tarouba, Trinidad",England,132,West Indies,133,West Indies,field,21-12-2023,20,West Indies
+627,"Boland Park, Paarl",India,296,South Africa,218,South Africa,field,21-12-2023,50,India
+628,"Docklands Stadium, Melbourne",Melbourne Renegades,162,Brisbane Heat,163,Brisbane Heat,field,21-12-2023,20,Brisbane Heat
+629,"Basin Reserve, Wellington",Wellington,234,Otago,160,Wellington,bat,21-12-2023,20,Wellington
+630,Perth Stadium,Hobart Hurricanes,172,Perth Scorchers,173,Hobart Hurricanes,bat,20-12-2023,20,Perth Scorchers
+631,"Saxton Oval, Nelson",Bangladesh,291,New Zealand,296,New Zealand,field,20-12-2023,50,New Zealand
+632,"Brian Lara Stadium, Tarouba, Trinidad",England,267,West Indies,192,West Indies,field,19-12-2023,20,England
+633,"St George's Park, Gqeberha",India,211,South Africa,215,South Africa,field,19-12-2023,50,South Africa
+634,Adelaide Oval,Sydney Thunder,200,Adelaide Strikers,205,Sydney Thunder,bat,19-12-2023,20,Adelaide Strikers
+635,"Eden Park Outer Oval, Auckland",Auckland,185,Canterbury,158,Canterbury,field,19-12-2023,20,Auckland
+636,"The Wanderers Stadium, Johannesburg",South Africa,116,India,117,South Africa,bat,17-12-2023,50,India
+637,Harare Sports Club,Zimbabwe,197,Ireland,204,Ireland,field,17-12-2023,50,Ireland
+638,"University Oval, Dunedin",New Zealand,239,Bangladesh,200,Bangladesh,field,17-12-2023,50,New Zealand
+639,"National Cricket Stadium, St George's, Grenada",West Indies,222,England,226,England,field,16-12-2023,20,England
+640,Harare Sports Club,Zimbabwe,166,Ireland,170,Zimbabwe,bat,15-12-2023,50,Ireland
